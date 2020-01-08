@@ -15,7 +15,7 @@ body {
   padding: 0;
   font-family: Helvetica, Geneva, Swiss, Arial, SunSans-Regular, sans-serif;
   line-height: normal;
-  font-size: 20pt;
+/*  font-size: 20pt;*/
   overscroll-behavior: none;
 }
 
@@ -259,7 +259,7 @@ a, a:link, a:visited, a:active {
   margin: auto;
   position: relative;
   padding: auto;
-  width: 51em;
+  width: 35em;
   padding: 15px;
 }
 
